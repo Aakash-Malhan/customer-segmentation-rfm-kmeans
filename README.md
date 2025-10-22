@@ -3,7 +3,7 @@ Customer segmentation web app (RFM + KMeans) with auto-k selection, Gradio UI, a
 
 Demo: https://huggingface.co/spaces/aakash-malhan/customer-segmentation-rfm-kmeans
 
-Objective:
+**Objective**:
 
 Convert raw retail transactions into actionable customer segments.
 
@@ -13,7 +13,7 @@ Auto-select K (number of clusters) via silhouette score; label segments with hum
 
 Produce downloadable outputs suitable for CRM, lifecycle marketing, and experimentation.
 
-Key Takeaways:
+**Key Takeaways**:
 
 Top Spenders (e.g., High-Value Loyalists) carry outsized revenue; protect with VIP perks and priority support
 .
@@ -25,7 +25,7 @@ At-Risk Dormants require reactivation (win-back emails, time-bound discounts, re
 
 Outputs are ready for action: you can import the assignments into CRM or ad platforms for targeting.
 
-Business Impact:
+**Business Impact**:
 
 Revenue Uplift: Targeted promos to top-value segments drive higher AOV and LTV versus blanket campaigns.
 
